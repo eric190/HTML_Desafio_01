@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+ <head>
+        <meta charset="UTF-8">
+        <title>A FALTA DE PROFISSIONAIS DE TECNOLOGIA</title>
+        <link rel="stylesheet" href="style.css">
+
+        <style>
+
+        </style>	
+ </head>
+
+    <body>
+    <img id="banner" src="banner.jpg">	
+    <h1 style="text-align: center">A falta de profissionais de tecnologia</h1>
+
+    <p>A transformação digital não é mais uma novidade para as empresas brasileiras, pelo contrário, já se faz presente na grande maioria delas, com a utilização das ferramentas tecnológicas mais inovadoras do mercado.</p>
+
+    <p>Com este cenário, a exigência por profissionais qualificados no setor de tecnologia cresce cada vez mais, No entanto, o principal desafio das companhias tem sido preencher esse grande volume de novas vagas. Segundo dados da Brasscom (Associação das Empresas de Tecnologia da Informação e Comunicação e de Tecnologias Digitais), a projeção não é otimista, e até 2025, o déficit de mão de obra no setor deve chegar a 797 mil.</p>
+
+    <p>É possível afirmar que uma soma de fatores leva a este resultado, sendo o primeiro deles a carência da formação de profissionais qualificados no Brasil. Hoje em dia, uma criança já nasce convivendo com a tecnologia e o acesso ao seu aprendizado é bastante simples. Porém, para tornar-se um profissional do ramo, é necessária uma formação técnica muito mais profunda e especializada.</p>
+    <body>
+</html>
